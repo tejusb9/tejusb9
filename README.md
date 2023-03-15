@@ -7,6 +7,7 @@ Data Science + Data Analysis enthusiast
 ✨ I'm a Data Science + Data Analysis enthusiast. I am passionate about making the data accessible to everyone. 🎓Graduating batch of 2023 : MBA in Business Analytics with a Minor in Finance @ B.M.S. College Of Engineering - Bangalore 💬 Ask me about: Business Analytics, Business Intelligence 🌱 I’m currently learning Big Data + Docker 👯 I’m looking to collaborate on projects related to Data Science ⚡ Fact about myself: I believe everything has a set of rules/protocols to be followed. There are also patterns in most of the aspects of life which are yet to be discovered. 🎮 When I'm not coding, you can find me geeking about Pokemon, or writing blogs. I also enjoy playing badminton.
 
 * 🌍  I'm based in Bangalore
+* 🖥️  See my portfolio at [https://wetypeit99.wixsite.com/tejus](http://wetypeit99.wixsite.com/tejus)
 * ✉️  You can contact me at [tejusb9@gmail.com](mailto:tejusb9@gmail.com)
 
 ### Skills
