@@ -5,7 +5,7 @@ Data Science + Data Analysis enthusiast
 ---------------------------------------
 
 ✨ I'm a Data Science + Data Analysis enthusiast. I am passionate about making data accessible to everyone. 
-🎓Graduating batch of 2023 : MBA in Business Analytics with a Minor in Finance @ B.M.S. College Of Engineering - Bangalore 
+🎓 Graduating batch of 2023 : MBA in Business Analytics with a Minor in Finance @ B.M.S. College Of Engineering - Bangalore 
 💬 Ask me about: Business Analytics, Business Intelligence 
 🌱 I’m currently learning Big Data + Docker 
 👯 I’m looking to collaborate on projects related to Data Science 
