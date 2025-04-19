@@ -1,10 +1,10 @@
 Hi 👋 My name is Tejus B
 ========================
 
-Data Science + Data Analysis enthusiast
----------------------------------------
+Product Analyst @ Gameberry Labs
+-----------------------------------------------
 
-* ✨ I'm a Data Science + Data Analysis enthusiast. I am passionate about making data accessible to everyone. 
+* ✨ I'm a Data Science + Product Analytics Enthusiast. I am passionate about making data accessible to everyone. 
 * 🎓 Graduating batch of 2023 : MBA in Business Analytics with a Minor in Finance @ B.M.S. College Of Engineering - Bangalore 
 * 💬 Ask me about: Data Science, Statistics, Business Analytics, Business Intelligence 
 * 🌱 I’m currently learning Big Data + Microsoft Azure
